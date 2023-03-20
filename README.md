@@ -45,3 +45,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/arianamani/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-282C34?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn logo" title="LinkedIn" height="25" /> 
 </a> 
 </p>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
