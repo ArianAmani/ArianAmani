@@ -48,4 +48,16 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 March 2023 - To: 21 March 2023
+
+Total Time: 17 hrs 25 mins
+
+Python       16 hrs 53 mins  ████████████████████████▒   96.99 %
+Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
+
 <!--END_SECTION:waka-->
