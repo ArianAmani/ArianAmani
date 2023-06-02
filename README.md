@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## :bar_chart: This Week I Spent My Time On
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Total Time: 14 hrs 5 mins
