@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2023 - To: 04 June 2023
+From: 29 May 2023 - To: 05 June 2023
 
-Total Time: 8 hrs 45 mins
+Total Time: 7 hrs 45 mins
 
-Python   8 hrs 3 mins    ███████████████████████░░   92.09 %
-Other    41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Python   7 hrs 6 mins    ███████████████████████░░   91.56 %
+Other    39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
 ```
 
 <!--END_SECTION:waka-->
