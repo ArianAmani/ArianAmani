@@ -52,12 +52,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 29 mins
+Total Time: 1 hr 24 mins
 
-YAML     20 mins         █████████████████▒░░░░░░░   69.69 %
-Python   8 mins          ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+Assembly   51 mins         ███████████████▒░░░░░░░░░   61.09 %
+YAML       20 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
+Python     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
 ```
 
 <!--END_SECTION:waka-->
