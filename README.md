@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Arian Amani](https://ArianAmani.github.io)👋
 
-:speech_balloon: I'm a Computer Science student at the Amirkabir University of Technology, studying, working on, and researching deep learning applications in Life Sciences such as Single-Cell Genomics and Drug Discovery with a focus on Generative Models as a remote research intern at the Wellcome Sanger Institute. I'm also quite interested in Adversarial Examples and trying to make more robust and generalized deep learning models as well.
+:speech_balloon: I'm a Computer Science student at the Sapienza University of Rome, studying, working on, and researching deep learning applications in Life Sciences such as Single-Cell Genomics and Drug Discovery with a focus on Generative Models as a remote research intern at the Wellcome Sanger Institute. I'm also quite interested in Adversarial Examples and trying to make more robust and generalized deep learning models as well.
 
 ## :mailbox: Contact me
 <p align="left"> 
