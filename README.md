@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Total Time: 10 hrs 45 mins
+Total Time: 6 hrs 36 mins
 
-Python             6 hrs 28 mins   ███████████████░░░░░░░░░░   60.24 %
-Assembly           3 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.71 %
-reStructuredText   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Python             5 hrs 59 mins   ██████████████████████▓░░   90.70 %
+reStructuredText   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Assembly           16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
