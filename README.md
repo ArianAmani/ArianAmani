@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Total Time: 3 hrs 39 mins
+Total Time: 3 hrs 29 mins
 
-Python   3 hrs 39 mins   █████████████████████████   100.00 %
+Python   3 hrs 29 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
