@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Arian Amani](https://ArianAmani.github.io)👋
 
-:speech_balloon: I'm a Computer Science student at the Sapienza University of Rome, studying, working on, and researching deep learning applications in Life Sciences such as Single-Cell Genomics and Drug Discovery with a focus on Generative Models as a remote research intern at the Wellcome Sanger Institute. I'm also quite interested in Adversarial Examples and trying to make more robust and generalized deep learning models as well.
+:speech_balloon: I'm a Computer Science student at the Sapienza University of Rome, studying, working on, and researching deep learning applications in Life Sciences such as Single-Cell Genomics and Drug Discovery with a focus on Generative Models as a remote research assistant at the Wellcome Sanger Institute. I'm also quite interested in Adversarial Examples and trying to make more robust and generalized deep learning models as well.
 
 ## :mailbox: Contact me
 <p align="left"> 
@@ -33,12 +33,11 @@ Here are some ideas to get you started:
 * 🚀 My recent focus has been on creating cutting-edge Generative Models and pioneering Multi-Modal Contrastive Learning approaches.
 * 🔬 Single-Cell Genomics, Drug Discovery, Drug Optimization, and Gene-Drug Interaction Analysis
 * :orange_book: Check out my [resume](https://arianamani.github.io/files/Arian_Amani_CV.pdf).
-* :black_nib: I'm starting to write articles on my blog regularly. <a href="https://medium.com/@ArianAmani"> <img src="https://img.shields.io/badge/Medium-282C34?logo=medium" alt="Medium logo" title="Medium" height="20" /> </a> <a href="https://arianamani.github.io/year-archive/"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=Blog&url=https%3A%2F%2Farianamani.github.io%2Fyear-archive%2F" alt="Blog logo" title="Blog" height="20" /> 
-* :boom: I have a background in Cyber Security (Windows post exploitation and red teaming).
+* :black_nib: I might start to write articles on my blog regularly, for now there's a roadmap to starting Deep Learning <a href="https://medium.com/@ArianAmani"> <img src="https://img.shields.io/badge/Medium-282C34?logo=medium" alt="Medium logo" title="Medium" height="20" /> </a> <a href="https://arianamani.github.io/year-archive/"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=Blog&url=https%3A%2F%2Farianamani.github.io%2Fyear-archive%2F" alt="Blog logo" title="Blog" height="20" /> 
   
 ## :memo: Recent Posts
 * [A Deep Learning Road Map And Where To Start --- September 02, 2022](https://arianamani.github.io/posts/2022/09/DL-Roadmap/)
-* Working on it :))))
+* We'll see...
 
 ## :floppy_disk: Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
@@ -47,17 +46,3 @@ Here are some ideas to get you started:
 
 ## :computer: OS
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-
-## :bar_chart: This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-From: 22 January 2024 - To: 29 January 2024
-
-Total Time: 3 hrs 49 mins
-
-Python   3 hrs 48 mins   █████████████████████████   99.64 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-```
-
-<!--END_SECTION:waka-->
