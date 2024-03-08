@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * 🚀 My recent focus has been on creating cutting-edge Generative Models and pioneering Multi-Modal Contrastive Learning approaches.
 * 🔬 Single-Cell Genomics, Drug Discovery, Drug Optimization, and Gene-Drug Interaction Analysis
 * :orange_book: Check out my [resume](https://arianamani.github.io/uploads/resume.pdf).
-* :black_nib: I might start to write articles on my blog regularly, for now there's a roadmap to starting Deep Learning <a href="https://medium.com/@ArianAmani"> <img src="https://img.shields.io/badge/Medium-282C34?logo=medium" alt="Medium logo" title="Medium" height="20" /> </a> <a href="https://arianamani.github.io/year-archive/"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=Blog&url=https%3A%2F%2Farianamani.github.io%2Fyear-archive%2F" alt="Blog logo" title="Blog" height="20" /> 
+* :black_nib: I might start to write articles on my blog regularly, for now there's a roadmap to starting Deep Learning <a href="https://medium.com/@ArianAmani"> <img src="https://img.shields.io/badge/Medium-282C34?logo=medium" alt="Medium logo" title="Medium" height="20" /> </a> <a href="https://arianamani.github.io/#posts"> <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=Blog&url=https://arianamani.github.io/#posts" alt="Blog logo" title="Blog" height="20" /> 
   
 ## :memo: Recent Posts
 * [A Deep Learning Road Map And Where To Start --- September 02, 2022](https://arianamani.github.io/post/deep-learning-roadmap/)
