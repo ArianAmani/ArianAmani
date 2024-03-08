@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 
 ## :computer: OS
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+
+[![Arian's GitHub stats](https://github-readme-stats-tan-seven-53.vercel.app/api?username=ArianAmani)](https://github.com/anuraghazra/github-readme-stats)
+
