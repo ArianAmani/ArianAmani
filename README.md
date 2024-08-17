@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 * [A Deep Learning Road Map And Where To Start --- September 02, 2022](https://arianamani.github.io/post/deep-learning-roadmap/)
 * We'll see...
 
-[![Arian's GitHub stats](https://github-readme-stats-tan-seven-53.vercel.app/api?username=ArianAmani)](https://github.com/anuraghazra/github-readme-stats)
+[![Arian's GitHub stats](https://github-readme-stats-tan-seven-53.vercel.app/api?username=ArianAmani&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
