@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Arian Amani](https://ArianAmani.github.io)👋
 
-:speech_balloon: I'm a Computer Science student at the Sapienza University of Rome, studying, working on, and researching deep learning applications in Life Sciences such as Single-Cell Genomics and Drug Discovery with a focus on Generative Models as a remote research assistant at the Wellcome Sanger Institute. I'm also quite interested in Adversarial Examples and trying to make more robust and generalized deep learning models as well.
+:speech_balloon: I build AI that doesn't just predict biological states but learns to understand the underlying mechanisms of cellular response.
+
+At the "Wellcome Sanger Institute", my research focuses on causal generative models for single-cell biology. The goal is true mechanistic clarity: using disentangled representation learning to separate a drug’s extrinsic effect from a cell’s intrinsic state. My work on "CellDISECT" introduced counterfactual reasoning to the field, allowing us to simulate "what if" scenarios for biological counterfactuals with unprecedented accuracy.
+
+At "AI VIVO", I bridge the gap between high-level research and clinical utility. I design production-grade ML pipelines that integrate chemical structure with multi-omic assay data, turning theoretical breakthroughs into deployable drug discovery tools.
+
+My background in "Computer Vision" left me with a permanent obsession with "Out-of-Distribution (OOD) generalization". In biology, where the "unseen" is the norm, I believe OOD robustness is the only way to build foundation models that actually generalize across patients and tissues.
 
 ## :mailbox: Contact me
 <p align="left"> 
